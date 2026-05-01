@@ -1,4 +1,4 @@
-# AI-Website-Ptoject-Clothing-Website
+# AI-Website-Project-Clothing-Website
 ZyloFits is a modern, fully responsive menswear e-commerce website with a proper backend using lovalbe cloud . It features a premium UI/UX, 200+ products, advanced filtering, cart system, and admin dashboard for product management. Built for a realistic, high-end shopping experience with smooth animations and scalable architecture
 ##  Screenshots
 <img width="1338" height="616" alt="new1" src="https://github.com/user-attachments/assets/f784a11f-46bd-4280-9684-dcdc3676de20" />
